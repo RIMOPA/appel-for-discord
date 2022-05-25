@@ -1,4 +1,4 @@
-![mdA4D title](https://user-images.githubusercontent.com/78447219/165000679-bc4aa971-5e53-4127-989c-3bf2864c263f.png)
+![mdA4D title](https://user-images.githubusercontent.com/78447219/165000679-bc4aa971-5e53-4127-989c-3bf2864c263f.png
 
 ---
 > A bot thats only purpose of existence is to play a janky version of Appel.
